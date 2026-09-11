@@ -1,0 +1,2 @@
+# jur-dico-android
+jurídico
