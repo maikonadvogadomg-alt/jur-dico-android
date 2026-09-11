@@ -1,0 +1,2 @@
+rootProject.name = 'jurdico'
+include ':app'
